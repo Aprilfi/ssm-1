@@ -2,6 +2,7 @@ package com.soecode.lyf.dao;
 
 import java.util.List;
 
+import ch.qos.logback.classic.BasicConfigurator;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
